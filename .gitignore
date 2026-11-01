@@ -1,0 +1,9 @@
+# local secrets
+.env
+.env.*
+!.env.example
+firebase-service-account*.json
+
+# generated dependencies
+node_modules/
+vendor/
